@@ -758,7 +758,7 @@ BoldItalicFont=*-MediumItalic,
 % Define a title of the cover letter
 % Usage: \makelettertitlenew
 \newcommand*{\makelettertitlenew}{%
-	\vspace{30.0mm}
+	\vspace{20.0mm}
 	\setlength\tabcolsep{0pt}
 	\setlength{\extrarowheight}{0pt}
 	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
